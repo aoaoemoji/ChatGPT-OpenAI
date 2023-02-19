@@ -14,10 +14,11 @@ ChatGPT OpenAI 账号代注册 批量注册 账号批发
 200以上 4元
 500起 3元500起 3元
 
-
-客服联系```
+```
+客服联系
 QQ 741500926
 ```
+
 tg频道 https://t.me/chatgptaccount2023
 
 https://ai.fiime.cn/
