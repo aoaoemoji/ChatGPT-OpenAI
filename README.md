@@ -1,7 +1,13 @@
 # ChatGPT-OpenAI
 ChatGPT OpenAI 账号代注册|批量注册|账号批发|源头供货，均为新号，带5美元/120美金额度账号，买完即可在 openai.com 登录查使用量，诚信经营，只有独享！QQ：741500926
 
-**官网：** chat.openai.com
+**官网：**
+可用范围：OPENAI的三个产品 目前codex和chatgpt免费使用，dalle2免费200张图片
+1.openAI官网：https://openai.com/api/
+2.chatGPT（AI对话）:https://chat.openai.com/auth/login
+3.DALL·E 2（AI画画）:https://openai.com/dall-e-2/
+4.GTP-3（AI论文）:https://beta.openai.com/playground
+
 计费模式：0.02美分 500汉字或者1000英文 发送和收取都是计费的！
 
 版本 | API | 额度 | 有效期 | 请求次数 | 模型 | 升级 | 售后 | 零售价 | 批发价 
