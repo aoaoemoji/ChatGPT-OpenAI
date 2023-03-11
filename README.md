@@ -1,5 +1,5 @@
 # ChatGPT-OpenAI
-ChatGPT OpenAI 账号代注册批量注册账号批发源头供货，均为新号，带5美元/120美金额度账号，买完即可在 openai.com 登录查使用量，诚信经营，只有独享！QQ：741500926
+ChatGPT OpenAI 账号代注册|批量注册|账号批发|源头供货，均为新号，带5美元/120美金额度账号，买完即可在 openai.com 登录查使用量，诚信经营，只有独享！QQ：741500926
 
 **官网：** chat.openai.com
 计费模式：0.02美分 500汉字或者1000英文 发送和收取都是计费的！
@@ -30,3 +30,5 @@ QQ联系直接购买，没有其他渠道出售了！
 ```
 **问题专区：**
 一切的回答都在这里：https://blog.fiime.cn/blog/633
+
+#AI #Chatgpt #OPENAI #GPT-4 #NLP #Chatgpt账号 #OPENAI账号
