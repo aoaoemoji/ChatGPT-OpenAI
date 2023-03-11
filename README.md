@@ -3,7 +3,9 @@ ChatGPT OpenAI 账号代注册|批量注册|账号批发|源头供货，均为�
 
 **官网：**
 ```html
-可用范围：OPENAI的三个产品 目前codex和chatgpt免费使用，dalle2免费200张图片
+可用范围：
+OPENAI的三个产品 目前codex和chatgpt免费使用，dalle2免费200张图片
+
 1.openAI官网：https://openai.com/api/
 2.chatGPT（AI对话）:https://chat.openai.com/auth/login
 3.DALL·E 2（AI画画）:https://openai.com/dall-e-2/
