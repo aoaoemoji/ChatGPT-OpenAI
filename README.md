@@ -9,7 +9,10 @@ OPENAI的三个产品 目前codex和chatgpt免费使用，dalle2免费200张图�
 2.chatGPT（AI对话）:https://chat.openai.com/auth/login
 3.DALL·E 2（AI画画）:https://openai.com/dall-e-2/
 4.GTP-3（AI论文）:https://beta.openai.com/playground
-计费模式：0.002美分 500汉字或者1000英文 发送和收取都是计费的！
+
+OpenAI API收费标准|使用范围
+https://blog.fiime.cn/blog/19483
+
 ```
 版本 | API | 额度 | 有效期 | 请求次数 | 模型 | 升级 | 售后 | 零售价 | 批发价 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
