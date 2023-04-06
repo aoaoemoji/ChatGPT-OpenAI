@@ -3,15 +3,14 @@ ChatGPT OpenAI 账号代注册|批量注册|账号批发|源头供货，均为�
 
 **官网：**
 ```html
-可用范围：
-OPENAI的三个产品 目前codex和chatgpt免费使用，dalle2免费200张图片
-1.openAI官网：https://openai.com/api/
-2.chatGPT（AI对话）:https://chat.openai.com/auth/login
-3.DALL·E 2（AI画画）:https://openai.com/dall-e-2/
-4.GTP-3（AI论文）:https://beta.openai.com/playground
-
 OpenAI API收费标准|使用范围
 https://blog.fiime.cn/blog/19483
+
+基础知识问答以及解决方案
+https://blog.fiime.cn/blog/633
+
+TG频道：
+https://t.me/chatgptaccount2023
 
 ```
 版本 | API | 额度 | 有效期 | 请求次数 | 模型 | 升级 | 售后 | 零售价 | 批发价 
@@ -31,13 +30,8 @@ Plus版 | 不支持 | -$ | 2023.07.01 | 2000次/分 | 可选 | - | 7天 | 175/�
 
 **客服联系：**
 ```html
-TG频道：https://t.me/chatgptaccount2023
 QQ：741500926（一直在线），欢迎个人、公司、工作室等老板下单，量大可以商量价格！
 现在都是手动注册号了，没有售后 但是够稳！
 QQ联系直接购买，没有其他渠道出售了！
-
-```
-**问题专区：**
-一切的回答都在这里：https://blog.fiime.cn/blog/633
 
 #AI #Chatgpt #OPENAI #GPT-4 #NLP #Chatgpt账号 #OPENAI账号
