@@ -9,8 +9,8 @@ https://blog.fiime.cn/blog/19483
 基础知识问答以及解决方案
 https://blog.fiime.cn/blog/633
 
-TG频道：
-https://t.me/chatgptaccount2023
+通知查看
+https://app.shokichan.com/c/tg/chatgptaccount2023?tab=tag
 
 ```
 版本 | API | 额度 | 有效期 | 请求次数 | 模型 | 升级 | 售后 | 零售价 | 批发价 
@@ -23,13 +23,10 @@ Plus版 | 不支持 | -$ | 2023.07.01 | 2000次/分 | 可选 | - | 3天 | 175/�
 卡密格式为：ChatGPT账号----邮箱密码----ChatGPT密码----api
 售后期间问题号包换，24小时首登，过售后处理不了
 
-在线使用：https://chat-gpt-next-web.vercel.app/ 设置中可以填写key 仅限信用卡版本和Plus版本使用
 ```
 
 **客服联系：**
 ```html
 QQ：741500926（一直在线），欢迎个人、公司、工作室等老板下单，量大可以商量价格！
-现在都是手动注册号了，没有售后 但是够稳！
-QQ联系直接购买，没有其他渠道出售了！
-
+```
 #AI #Chatgpt #OPENAI #GPT-4 #NLP #Chatgpt账号 #OPENAI账号
